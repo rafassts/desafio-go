@@ -1,4 +1,4 @@
 # desafio-go
-desafio full cycle docker - go lang
+desafio go - curso full cycle
 
-dockerhub: rafaelsesantos/desafio-go
+dockerhub: rafaelsesantos/codeeducation
